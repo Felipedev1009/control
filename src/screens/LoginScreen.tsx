@@ -3,7 +3,7 @@ import { View, Text } from "react-native";
 export default function RegisterScreen() {
     return (
         <View>
-            <Text>Login Screen</Text>
+            <Text>Login </Text>
             </View>
     )
 }
